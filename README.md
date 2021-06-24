@@ -25,43 +25,22 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 XYZ LANN and RAMLAN ID
+### MUHAMMAD FADHLAN
+
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 XYZ LANN 
 
 ### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+FOLLOW LAH IG GW WKWKW
 
-## NOTE:> 
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+## NOTE :)
+MAU BUAT BOT WA? CHAT GW AJA DI WA :)
 </div>
 
-### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-Siapin alat dan bahannya.
-```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
-> aplikasi whatsapp
-> aplikasi termux
-> kopi+rokok ;v
-```
-## Edit disini
-Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
-```json
-{
-    "botName": "FADHLAN BOTZ",
-    "ownerName": "FADHLAN MHMD",
-    "ownerNumbers": "6285156331734",
-    "ZeksApi": "apivinz",
-    "botPrefix": "!",
-    "GrupLimitz": "0",
-    "autor": "MrR4M",
-    "peknem": "FALDAN-NUB",
-    "CeerTod": "*FADHLAN XYZ*"
-}
+### SUBS CHANEL GW:V <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 
+## Santay ae ngab
+Di Bawa kalem 
 
-```
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
 > kalo lu belum punya apk termux, download di playstore
@@ -72,15 +51,15 @@ Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/Ramlan404/babybot
-> cd babybot
+> git clone https://github.com/alanxxYz/Fadhanxyz
+> cd Fadhanxyz
 > bash install.sh
 > npm start
 > SCAN DAH BRO MHEHE EZ KAN:V
 ```
 
 
-Ket: Script ini gratis ye Jangan dijual_-
+Ket: folow ig aing
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi Fadlan ID`](http://bit.ly/dukungfadhlan)
